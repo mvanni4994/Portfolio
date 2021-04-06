@@ -11,17 +11,20 @@ html {
   }
   
   .jumbotron { 
-    position: center;
-    margin-top: 100px;
-    margin-left: 200px;
+      background-color: rgb(214, 214, 214);
+    margin-top: 50px;
   }
 
     .display-4 {
         text-align: center;
         color: black;
-
 }
 
+.img-responsive{
+    
+   margin-left: 375px;
+
+}
 .lead{
     color:black;
     text-align: center;
