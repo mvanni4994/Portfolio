@@ -10,8 +10,8 @@ Github Repository: https://github.com/mvanni4994
 
 ## App Features
 
-![image](assets/porthome.JPG)
-![image](assets/portpage.JPG)
+![image](/assets/images/porthome.JPG)
+![image](/assets/images/portpage.JPG)
 
 ## Technology Used
 HTML, Bootstrap, FontAwesome
