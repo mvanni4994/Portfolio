@@ -3,10 +3,12 @@
 ## Description
 This project contains my personal portfolio which will progressively be updated in the future as my skill continue to improve.
 
-Deployed App: 
+Deployed App: https://mvanni4994.github.io/Portfolio/
 
 Github Repository: https://github.com/mvanni4994
 
+## Future Development
+Impliment updated resume as skills progress
 
 ## App Features
 
