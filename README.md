@@ -8,7 +8,7 @@ Deployed App: https://mvanni4994.github.io/Portfolio/
 Github Repository: https://github.com/mvanni4994
 
 ## Future Development
-Impliment updated resume as skills progress
+Impliment updated resume as skills progress & continue adding projects
 
 ## App Features
 
