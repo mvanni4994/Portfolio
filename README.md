@@ -1,7 +1,7 @@
 ## Portfolio - Matt Vanni [![MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
-This project contains my personal portfolio which will progressively be updated in the future as my skill continue to improve.
+This project contains my personal portfolio which will progressively be updated in the future as my skills continue to improve.
 
 Deployed App: https://mvanni4994.github.io/Portfolio/
 
